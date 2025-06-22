@@ -44,5 +44,6 @@ Always curious, always improving. 🌱
 
 ### 📫 Let's connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/k-kavyashree-karanth-7ba63126a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-kavyashree-karanth-7ba63126a)
+
   
