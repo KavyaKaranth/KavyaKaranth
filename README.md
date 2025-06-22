@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Kavya Karanth
+# 👋 Hi there! I'm K Kavyashree Karanth
 
 I'm an MCA student who loves to learn and build projects.  
 I'm especially interested in full stack development and enjoy solving problems using logic and code.
@@ -33,7 +33,7 @@ Always curious, always improving. 🌱
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats 
 
 ![Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavyaKaranth&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaKaranth&layout=compact&theme=radical)
@@ -42,5 +42,5 @@ Always curious, always improving. 🌱
 
 ### 📫 Let's connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/k-kavyashree-karanth-7ba63126a)
+  
